@@ -1,12 +1,10 @@
-# HQ QL40 centraliser
+# QL40 slip-on centralisers
 
-Print-ready slip-on cage for a QL40 in HQ hole.
+Raised stamp on both rings: **HQ v3** / **NQ v1**
 
-**Download the STL:** [HQ_QL40_centraliser_X2D.stl](https://github.com/Terratest2026/hq-ql40-centraliser/raw/main/HQ_QL40_centraliser_X2D.stl)
+| File | Hole | Free OD |
+|------|------|---------|
+| [HQ_QL40_centraliser_v3.stl](https://github.com/Terratest2026/hq-ql40-centraliser/raw/main/HQ_QL40_centraliser_v3.stl) | 96 mm | 102 mm |
+| [NQ_QL40_centraliser_v1.stl](https://github.com/Terratest2026/hq-ql40-centraliser/raw/main/NQ_QL40_centraliser_v1.stl) | 78 mm | 83 mm |
 
-- 4 blades, rounded 9 mm roots
-- Free OD 102 mm (6 mm preload in 96 mm HQ)
-- Collar on the bed, Z up — do not rotate
-- Bambu X2D: PLA fit-check, 0.4 mm nozzle, 0.20 mm, 5 walls, tree supports, 8 mm brim
-- Punch out the 0.24 mm disk in the bore after printing
-- Print two (one each side of the window)
+Print: collar on the bed, do not rotate. PLA for fit check.
